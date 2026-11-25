@@ -1,13 +1,12 @@
 # Hi, I’m Stuart Daniells 👋
 
-I’m a software engineer and co-founder of Fangtooth Analytics. I’ve spent more than six years building software, from systems that let engineers monitor battery prototypes as they run, to financial analytics tools that fit into an accountant’s existing Excel workflow.
+My work sits at the intersection of software architecture, cloud systems, data engineering, and applied AI. I’m the Co-Founder & CTO of Fangtooth Analytics Inc. with over six years of software engineering experience spanning industrial telemetry, supply chain systems, and financial analytics.
 
-### What I build
+## What I do
 
-**Fangtooth Analytics · Co-Founder & CTO**  
-I designed the platform so finance teams can work in Excel and keep core financial processing on their own machines. Excel handles the interaction, while a local Python engine runs financial queries with DuckDB and Parquet. I’m building AI-assisted workflows to interpret unfamiliar ledger layouts, with Python responsible for validating and transforming the data.
-
-**AlumaPower · Full-Stack Developer & Data Engineer**  
-I led the design and deployment of an industrial IoT platform for battery testing. Engineers could monitor prototypes live and revisit an experiment later because we preserved the raw telemetry in Azure Data Explorer and decoded selected time ranges on demand. I also built a Python analysis tool that cut the reported analysis time per experiment from about 45 minutes to 7 seconds.
+- **Software & Systems Engineering.** I designed Fangtooth so accountants can work in Excel while a local engine handles the financial processing.
+- **Cloud & Real-Time Systems.** At AlumaPower, I led the design and delivery of an Azure platform for live monitoring and remote control of battery prototypes.
+- **Data Engineering & Analytics.** I built a configuration-driven analytics engine that lets finance teams reuse the same query logic across different datasets.
+- **Applied AI & LLM Systems.** I build workflows that combine document retrieval and tool calling. For ledger preparation, I’m using models to interpret the layout and Python to validate and transform the data.
 
 [Engineering case studies](https://stuartdaniells.com/home/works) · [LinkedIn](https://www.linkedin.com/in/stuart-daniells/) · [Fangtooth Analytics](https://fangtooth.tech/)
