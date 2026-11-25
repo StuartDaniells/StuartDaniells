@@ -1,6 +1,6 @@
 # Hi, I’m Stuart Daniells 👋
 
-I’m a software engineer and co-founder of Fangtooth Analytics. I’ve spent more than six years building software, from systems that let engineers monitor battery prototypes as they run to financial analytics tools that fit into an accountant’s existing Excel workflow.
+I’m a software engineer and co-founder of Fangtooth Analytics. I’ve spent more than six years building software, from systems that let engineers monitor battery prototypes as they run, to financial analytics tools that fit into an accountant’s existing Excel workflow.
 
 ### What I build
 
